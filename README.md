@@ -73,7 +73,7 @@ console.log(mergeSort([]));   // Output: []
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/Mesud-Ahmed/Recursion-DSA.git
    ```
 
 2. Install any required dependencies (if applicable):
